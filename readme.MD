@@ -76,5 +76,5 @@ Hi 👋,
 Check out some of my works in progress:
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jazminereyes&repo=communique-api)](https://github.com/jazminereyes/communique-api)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jazminereyes&repo=mars-rover-image)](https://github.com/jazminereyes/mars-rover-image)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jazminereyes&repo=communique-api&title_color=fff&text_color=9f9f9f&bg_color=1A1A1A)](https://github.com/jazminereyes/communique-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jazminereyes&repo=mars-rover-image&title_color=fff&text_color=9f9f9f&bg_color=1A1A1A)](https://github.com/jazminereyes/mars-rover-image)
